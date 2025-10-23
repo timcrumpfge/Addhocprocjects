@@ -1,0 +1,150 @@
+World Gas Model – accuracy supporting confident decision making
+June 2022
+World Gas Model Introduction
+UTBMM/$
+3
+2
+2
+1
+1
+0
+5
+0
+5
+0
+5
+0
+1Q
+6002
+1Q
+7002
+1Q
+8002
+1Q
+9002
+1Q
+0102
+C a
+1Q
+1102
+lc u la te
+1Q
+2102
+d S
+C
+p
+h
+1Q
+3102
+o
+in
+t
+a S
+1Q
+4102
+p o t
+1Q
+5102
+1Q
+6102
+1Q
+7102
+A c
+1Q
+8102
+tu a l S
+1Q
+9102
+p o t
+1Q
+0202
+1Q
+1202
+1Q
+2202
+TTF JKM
+45 30
+40
+25
+35
+20
+30 U
+T
+U T25 B M15
+B M M
+M20 /$
+/$ 10
+15
+5
+10
+5 0
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+0 Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 1 Q 6 0 0 7 0 0 8 0 0 9 0 0 0 1 0 1 1 0 2 1 0 3 1 0 4 1 0 5 1 0 6 1 0 7 1 0 8 1 0 9 1 0 0 2 0 1 2 0 2 2 0
+6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Calculated Spot Actual Spot
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Calculated Spot Actual Spot
+UTBMM/$
+1
+1
+1
+1
+6
+4
+2
+0
+8
+6
+4
+2
+0
+1Q
+6002
+1Q
+7002
+1Q
+8002
+1Q
+9002
+1Q
+0102
+C a lc
+1Q
+1102
+u la
+1Q
+2102
+te d
+H
+S
+e n
+1Q
+3102
+p o
+r
+t
+y H
+1Q
+4102
+u b
+1Q
+5102
+1Q
+6102
+1Q
+7102
+A c
+1Q
+8102
+tu a
+1Q
+9102
+l S p o t
+1Q
+0202
+1Q
+1202
+1Q
+2202

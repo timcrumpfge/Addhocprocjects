@@ -1,0 +1,2 @@
+Market,N_Points,Mean_Percent_Error_MPE,Mean_Absolute_Percent_Error_MAPE,Median_Percent_Error,Std_Percent_Error,Min_Percent_Error,Max_Percent_Error,Min_Period,Max_Period
+Henry Hub,29,25.31,36.49,22.22,41.61,-30.00,100.00,2017 Q1,2009 Q1
